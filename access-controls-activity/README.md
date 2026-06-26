@@ -18,7 +18,7 @@ A small business discovered a **fraudulent payroll deposit** sent to an unknown 
 | File | Description |
 | --- | --- |
 | `README.md` | This overview of the activity. |
-| `access-control-worksheet.md` | The completed worksheet: notes identifying the threat actor, the access-control issues found, and recommended mitigations. |
+| `Access control worksheet.pdf` | The completed worksheet: notes identifying the threat actor, the access-control issues found, and recommended mitigations. |
 
 ## Key takeaway
 
