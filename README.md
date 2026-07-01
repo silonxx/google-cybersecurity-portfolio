@@ -13,6 +13,7 @@ This repository is my portfolio for the **Google Cybersecurity Professional Cert
 | [File-permissions-in-Linux](File-permissions-in-Linux) | Linux File Permissions | A walkthrough of checking and modifying Linux file/directory permissions using `ls -l`, `ls -la`, and `chmod` to enforce least-privilege access in a multi-user environment. |
 | [Home-Asset-Inventory](Home-Asset-Inventory) | Home Asset Inventory | An asset inventory spreadsheet cataloging home network devices and data, classifying each by sensitivity to support risk management. |
 | [access-controls-activity](access-controls-activity) | Access Controls (AAA) | Investigation of a fraudulent payroll deposit (`FAUX_BANK`), correlating event logs with the employee directory to identify the threat actor and recommend authentication, authorization, and accounting improvements. |
+| [Vulnerability-Assessment](Vulnerability-Assessment) | Vulnerability Assessment Report | A qualitative vulnerability assessment of a MySQL database server using NIST SP 800-30, scoring threats by likelihood and severity, with proposed remediation strategies. |
 
 ## About
 
