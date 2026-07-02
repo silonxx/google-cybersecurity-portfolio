@@ -14,6 +14,7 @@ This repository is my portfolio for the **Google Cybersecurity Professional Cert
 | [Home-Asset-Inventory](Home-Asset-Inventory) | Home Asset Inventory | An asset inventory spreadsheet cataloging home network devices and data, classifying each by sensitivity to support risk management. |
 | [access-controls-activity](access-controls-activity) | Access Controls (AAA) | Investigation of a fraudulent payroll deposit (`FAUX_BANK`), correlating event logs with the employee directory to identify the threat actor and recommend authentication, authorization, and accounting improvements. |
 | [Vulnerability-Assessment](Vulnerability-Assessment) | Vulnerability Assessment Report | A qualitative vulnerability assessment of a MySQL database server using NIST SP 800-30, scoring threats by likelihood and severity, with proposed remediation strategies. |
+| [USB-baiting](USB-baiting) | Parking Lot USB Exercise | An analysis of USB baiting risks, examining a hospital-related USB drive's contents, attacker exploitation potential, and recommended mitigation controls. |
 
 ## About
 
