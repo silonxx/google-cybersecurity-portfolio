@@ -16,6 +16,7 @@ This repository is my portfolio for the **Google Cybersecurity Professional Cert
 | [Vulnerability-Assessment](Vulnerability-Assessment) | Vulnerability Assessment Report | A qualitative vulnerability assessment of a MySQL database server using NIST SP 800-30, scoring threats by likelihood and severity, with proposed remediation strategies. |
 | [USB-baiting](USB-baiting) | Parking Lot USB Exercise | An analysis of USB baiting risks, examining a hospital-related USB drive's contents, attacker exploitation potential, and recommended mitigation controls. |
 | [PASTA-Threat-Modeling](PASTA-Threat-Modeling) | PASTA Threat Modeling | A threat modeling exercise using the PASTA framework to assess business risk, technical scope, threats, vulnerabilities, and mitigating controls for a sneaker company's payment application. |
+| [Malicious-Artifact-Analysis](Malicious-Artifact-Analysis) | Malicious Artifact Analysis | An analysis of a suspicious file artifact using VirusTotal, identifying IoCs and threat classification mapped to the Pyramid of Pain framework. |
 ## About
 
 These projects demonstrate skills in risk assessment, security auditing, compliance frameworks (NIST CSF, SOC 2), incident response, Linux access controls, asset management, and authentication/authorization/accounting (AAA). Each folder contains its own files and, where applicable, a README describing the activity in more detail.
