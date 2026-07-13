@@ -18,6 +18,7 @@ This repository is my portfolio for the **Google Cybersecurity Professional Cert
 | [PASTA-Threat-Modeling](PASTA-Threat-Modeling) | PASTA Threat Modeling | A threat modeling exercise using the PASTA framework to assess business risk, technical scope, threats, vulnerabilities, and mitigating controls for a sneaker company's payment application. |
 | [Malicious-Artifact-Analysis](Malicious-Artifact-Analysis) | Malicious Artifact Analysis | An analysis of a suspicious file artifact using VirusTotal, identifying IoCs and threat classification mapped to the Pyramid of Pain framework. |
 | [Phishing-Alert-Response](Phishing-Alert-Response) | Phishing Alert Response | An incident response exercise following a phishing playbook to evaluate, investigate, and escalate a phishing alert ticket. |
+| [Incident-Handlers-Journal](Incident-Handlers-Journal) | Incident Handler's Journal | A running journal of incident investigations and tool usage, documenting 5 W's analysis and NIST Incident Response Lifecycle phases across multiple course activities. |
 ## About
 
 These projects demonstrate skills in risk assessment, security auditing, compliance frameworks (NIST CSF, SOC 2), incident response, Linux access controls, asset management, and authentication/authorization/accounting (AAA). Each folder contains its own files and, where applicable, a README describing the activity in more detail.
