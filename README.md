@@ -19,6 +19,7 @@ This repository is my portfolio for the **Google Cybersecurity Professional Cert
 | [Malicious-Artifact-Analysis](Malicious-Artifact-Analysis) | Malicious Artifact Analysis | An analysis of a suspicious file artifact using VirusTotal, identifying IoCs and threat classification mapped to the Pyramid of Pain framework. |
 | [Phishing-Alert-Response](Phishing-Alert-Response) | Phishing Alert Response | An incident response exercise following a phishing playbook to evaluate, investigate, and escalate a phishing alert ticket. |
 | [Incident-Handlers-Journal](Incident-Handlers-Journal) | Incident Handler's Journal | A running journal of incident investigations and tool usage, documenting 5 W's analysis and NIST Incident Response Lifecycle phases across multiple course activities. |
+| [Python-Allow-List-Automation](./Python-Allow-List-Automation) | Algorithm for File Updates in Python | A Python algorithm that automates updating a health care company's allow list of IP addresses, removing entries flagged on a separate remove list using `with` statements, `.read()`, `.split()`, a `for` loop, `.remove()`, and `.write()`. |
 ## About
 
 These projects demonstrate skills in risk assessment, security auditing, compliance frameworks (NIST CSF, SOC 2), incident response, Linux access controls, asset management, and authentication/authorization/accounting (AAA). Each folder contains its own files and, where applicable, a README describing the activity in more detail.
